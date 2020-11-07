@@ -20,5 +20,4 @@ samples, guidance on mobile development, and a full API reference.
 <img src="Screenshot_2020-11-07-20-57-42-428_com.suvam.iampoor.jpg"
      alt="Markdown Monster icon"
      style:"float:left;margin-right:10px;"
-     width:"300"
-     />
+     width:"300"/>
