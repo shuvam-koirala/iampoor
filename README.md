@@ -1,6 +1,6 @@
-# iampoor
+# I am Poor 
 
-A new Flutter application.
+A simple Flutter application for beginners.
 
 ## Getting Started
 
@@ -14,3 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Here are some screenshots of the app
+## Screenshot 1
+<img src="Screenshot_2020-11-07-20-57-42-428_com.suvam.iampoor.jpg"
+     alt="Markdown Monster icon"
+     style:"float:left;margin-right:10px;"
+     width:"300"
+     />
